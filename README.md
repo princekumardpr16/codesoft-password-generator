@@ -1,4 +1,3 @@
-
 Project Name: Password Generator
 Description:
 This project is created as Task 1 for the CodeSoft internship.
@@ -8,6 +7,6 @@ Technologies Used:
 - Python
 - Tkinter
 
-How to Run:
-1. Install Python
-2. Run passgen.py
+# GUI Preview
+<img width="570" height="734" alt="image" src="https://github.com/user-attachments/assets/0d0c0ab3-01b8-46d0-85d1-892453f44cf7" />
+
